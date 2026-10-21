@@ -1,5 +1,5 @@
-## Hi there 👋
-
+I am an experienced technologist, accomplished engineering leader, and demonstrated product architect. I have succeeded in environments: large and small, corporate or entrepreneurial, and distributed, remote, or centralized. I understand the business and communicate product, technology, and engineering issues in perspective. I have guided, conceived, designed, built, and delivered successful software products at the intersection of mobile devices, security, and networking. My hands-on experience ranges from firmware, operating systems, client applications, and enabling backend services - and all levels in between.
+Having a “startup” mindset, I am primarily a technical architect and leader and also part-time: CTO (Chief Technology Officer / Chief Technical-evangelism Officer); developer; product owner; product visionary, engineering manager; mentor and coach to engineers, engineering managers, and product managers; security architect and engineer; performance engineer; quality and automation engineer; build/SCM engineer; code janitor; system administrator; field application engineer; electronics technician; technical support; and whatever other role(s) needs to get done at the time.
 <!--
 **ve6yeq/ve6yeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
